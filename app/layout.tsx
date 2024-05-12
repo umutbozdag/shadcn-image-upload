@@ -18,7 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <Head>
-        <meta property="og:image" content="/og.png" />
+        <meta property="og:image" content="https://i.ibb.co/bsprLDZ/image-1.png" />
       </Head>
       <body className={inter.className}>{children}</body>
     </html>
